@@ -44,8 +44,6 @@ public class SetupTeardownIncluder {
     }
 
 
-
-
     private boolean isTestPage() {
         return pageData.contains("Test");
     }
